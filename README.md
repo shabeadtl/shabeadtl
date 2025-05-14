@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shabeadtl
 - 👀 I’m interested in Coding and Driving
-- 🌱 I’m currently Doing Graduation on Bsc Computer Science
+- 🌱 BSc Computer Science Graduate | Focused on Full Stack Development & AI Integration
 - 💞️ I’m looking to collaborate on Developers
 - 📫 How to reach me "shbadtl@gmail.com"
 - 😄 Pronouns: Shabeeb
